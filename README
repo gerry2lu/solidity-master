@@ -1,5 +1,9 @@
---- begun 29/8/22 ~7pm ---
+--- 29/8/22 ~7pm ---
 
-this is the startup learning repo
+This is the startup learning repo
 
-in this repo we will be writing smart contract applications and uploading it to testnets.
+In this repo we will be writing smart contract applications and uploading it to testnets.
+
+--- 1/9/22 ~4pm ---
+
+Created our first smart contract -> wallet in which users can transfer to, and owner can withdraw from
