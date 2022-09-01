@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/gerrylu/Documents/startup-code/startup_learning/gerry/etherwallet/contracts/gerry.sol": {
+      "lastModificationDate": 1662008982793,
+      "contentHash": "f32b8e70af7d9bd748e728a05b420ae3",
+      "sourceName": "contracts/gerry.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "SampleStorage"
+      ]
+    }
+  }
+}
